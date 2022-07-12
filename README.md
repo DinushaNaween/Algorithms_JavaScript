@@ -1,3 +1,8 @@
+This repo contains algorithms written in JavaScript.
+Follwed JS algorithm series done by Vishwas from Codevolution.
+
+Link - [JavaScript Algorithms](https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa&index=1&ab_channel=Codevolution)
+
 # Algorithms with JavaScript
     This repository contains multiple different algorithms and concepts in developing algorithms.
 
