@@ -94,7 +94,7 @@ We can't determine actual time a program runs, hence we are calcuating how many 
       We managed to reduce the time complexity from O(n) to O(1).
 
 
-  ![Time complexity diagram 2](https://res.cloudinary.com/dinusha/image/upload/c_scale,w_550/v1657601389/Github%20MD%20images/Screenshot_2022-07-12_at_10.19.23.png)
+  ![Time complexity diagram 3](https://res.cloudinary.com/dinusha/image/upload/c_scale,w_550/v1657601389/Github%20MD%20images/Screenshot_2022-07-12_at_10.19.23.png)
 
 
 ## Space complexity
@@ -115,10 +115,17 @@ We better avoid these types of space complexities.
 
 This diagram shows Big-O notation vs performance and this can be use for both time and space complexities.
 
-![Time complexity diagram 2](https://res.cloudinary.com/dinusha/image/upload/c_scale,w_550/v1657602183/Github%20MD%20images/Screenshot_2022-07-12_at_10.28.04.png)
+![Big-O notation complecity chart](https://res.cloudinary.com/dinusha/image/upload/c_scale,w_550/v1657602183/Github%20MD%20images/Screenshot_2022-07-12_at_10.28.04.png)
 
 Few points co consider,
 
 1. There are multiple algorithms exists for the same problem and there is no only right solution for a problem. Different algorithm work well under different constraints.
 2. The same algorithm with the same programming language can be implemented in different ways.
 3. When writing a code, don't loose the sight of the big picture. Rather than writing clever code write code that is simple to read, understand and maintain.
+
+# Objects and Arrays - Big-O notation
+
+![Big-O notation for Objects](https://res.cloudinary.com/dinusha/image/upload/v1657603376/Github%20MD%20images/Screenshot_2022-07-12_at_10.50.37.png)
+
+
+![Big-O notation for Arrays](https://res.cloudinary.com/dinusha/image/upload/v1657603376/Github%20MD%20images/Screenshot_2022-07-12_at_10.52.22.png)
